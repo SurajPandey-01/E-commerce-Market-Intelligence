@@ -592,8 +592,6 @@ python analytics.py
   - Market insights
   - Supply chain optimization
 
-- [x] **Write-up**
-  - See: [ML_APPROACH.md](ML_APPROACH.md)
 
 ### ✅ 5. SUBMISSION REQUIREMENTS
 - [x] **GitHub repository**
@@ -664,12 +662,12 @@ Others                     2 companies
 ```
 
 ---
+## Screenshots
 
 ## 📚 Additional Resources
 
 - [API Implementation Details](app.py)
 - [Data Cleaning Decisions](DECISIONS.md)
-- [ML Approach Documentation](ML_APPROACH.md)
 - [FastAPI Docs](http://localhost:8000/docs) (when running)
 
 ---
