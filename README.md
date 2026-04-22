@@ -1,5 +1,5 @@
 # Electronics & Components B2B Directory
-## Data Engineering Assignment - Complete Solution
+## Electronics Market Intelligence 
 
 > A production-ready data pipeline that collects, cleans, and delivers electronics supplier data for B2B decision-making.
 
