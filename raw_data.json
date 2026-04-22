@@ -1,0 +1,182 @@
+[
+    {
+        "company_name": "Packard 255 G2",
+        "location": "Hyderabad",
+        "category": "Power Supply",
+        "rating": "3.7 stars"
+    },
+    {
+        "company_name": "Aspire E1-510",
+        "location": "Hyderabad",
+        "category": "Power Supply",
+        "rating": "4.5 stars"
+    },
+    {
+        "company_name": "ThinkPad T540p",
+        "location": "Bangalore",
+        "category": "Power Supply",
+        "rating": "5.0 stars"
+    },
+    {
+        "company_name": "ProBook",
+        "location": "Delhi",
+        "category": "Embedded Systems",
+        "rating": "4.4 stars"
+    },
+    {
+        "company_name": "ThinkPad X240",
+        "location": "Bangalore",
+        "category": "Embedded Systems",
+        "rating": "4.1 stars"
+    },
+    {
+        "company_name": "Aspire E1-572G",
+        "location": "Delhi",
+        "category": "Embedded Systems",
+        "rating": "3.8 stars"
+    },
+    {
+        "company_name": "ThinkPad Yoga",
+        "location": "Delhi",
+        "category": "Microcontrollers",
+        "rating": "4.9 stars"
+    },
+    {
+        "company_name": "Pavilion",
+        "location": "Delhi",
+        "category": "Semiconductors",
+        "rating": "4.7 stars"
+    },
+    {
+        "company_name": "Inspiron 15",
+        "location": "Mumbai",
+        "category": "PCB",
+        "rating": "5.0 stars"
+    },
+    {
+        "company_name": "Dell XPS 13",
+        "location": "Delhi",
+        "category": "PCB",
+        "rating": "3.6 stars"
+    },
+    {
+        "company_name": "ThinkPad X230",
+        "location": "Delhi",
+        "category": "Microcontrollers",
+        "rating": "4.8 stars"
+    },
+    {
+        "company_name": "HP 250 G3",
+        "location": "Chennai",
+        "category": "Power Supply",
+        "rating": "4.9 stars"
+    },
+    {
+        "company_name": "ThinkPad Yoga",
+        "location": "Mumbai",
+        "category": "Power Supply",
+        "rating": "4.4 stars"
+    },
+    {
+        "company_name": "HP 350 G1",
+        "location": "Bangalore",
+        "category": "Power Supply",
+        "rating": "4.1 stars"
+    },
+    {
+        "company_name": "Asus VivoBook...",
+        "location": "Delhi",
+        "category": "PCB",
+        "rating": "3.8 stars"
+    },
+    {
+        "company_name": "Dell Vostro 15",
+        "location": "Pune",
+        "category": "Embedded Systems",
+        "rating": "4.6 stars"
+    },
+    {
+        "company_name": "Acer Spin 5",
+        "location": "Bangalore",
+        "category": "Power Supply",
+        "rating": "4.7 stars"
+    },
+    {
+        "company_name": "Acer Aspire A5...",
+        "location": "Pune",
+        "category": "Embedded Systems",
+        "rating": "3.8 stars"
+    },
+    {
+        "company_name": "Dell Inspiron...",
+        "location": "Hyderabad",
+        "category": "PCB",
+        "rating": "3.6 stars"
+    },
+    {
+        "company_name": "Asus VivoBook...",
+        "location": "Mumbai",
+        "category": "Microcontrollers",
+        "rating": "4.0 stars"
+    },
+    {
+        "company_name": "Asus ROG STRIX...",
+        "location": "Hyderabad",
+        "category": "Embedded Systems",
+        "rating": "3.6 stars"
+    },
+    {
+        "company_name": "Acer Nitro 5 A...",
+        "location": "Hyderabad",
+        "category": "Microcontrollers",
+        "rating": "4.7 stars"
+    },
+    {
+        "company_name": "Asus ROG STRIX...",
+        "location": "Delhi",
+        "category": "Embedded Systems",
+        "rating": "4.3 stars"
+    },
+    {
+        "company_name": "Lenovo ThinkPa...",
+        "location": "Mumbai",
+        "category": "Power Supply",
+        "rating": "4.2 stars"
+    },
+    {
+        "company_name": "Lenovo Legion...",
+        "location": "Hyderabad",
+        "category": "Power Supply",
+        "rating": "4.1 stars"
+    },
+    {
+        "company_name": "Lenovo Legion...",
+        "location": "Pune",
+        "category": "Power Supply",
+        "rating": "4.0 stars"
+    },
+    {
+        "company_name": "Asus ROG Strix...",
+        "location": "Pune",
+        "category": "Embedded Systems",
+        "rating": "4.6 stars"
+    },
+    {
+        "company_name": "Asus ROG Strix...",
+        "location": "Hyderabad",
+        "category": "Microcontrollers",
+        "rating": "4.8 stars"
+    },
+    {
+        "company_name": "Asus ROG Strix...",
+        "location": "Delhi",
+        "category": "Embedded Systems",
+        "rating": "4.0 stars"
+    },
+    {
+        "company_name": "Asus VivoBook...",
+        "location": "Pune",
+        "category": "Microcontrollers",
+        "rating": "3.8 stars"
+    }
+]
